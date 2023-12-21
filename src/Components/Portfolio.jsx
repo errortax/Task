@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/forest.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "dark forest and trees";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Blog Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "As a content writer, things that I like to write",
+    url: "https://errortax.github.io/MLSA_onboarding/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "C Basics for Beginners",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "For the beginners who want to learn C.",
+    url: "https://www.programiz.com/c-programming",
   },
   {
-    title: "My Resume Site",
+    title: "My Website",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Things a student should know to maintain a disciplined life",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Video interview to explain which things a student should be mindful of.",
+    url: "https://www.youtube.com/watch?v=aDfqRbGk_Yk",
   },
 ];
 
